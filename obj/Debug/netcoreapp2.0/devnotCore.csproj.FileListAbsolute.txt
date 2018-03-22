@@ -1,0 +1,11 @@
+C:\Users\ERKAN\Desktop\devnotCore\deneme\bin\Debug\netcoreapp2.0\devnotCore.deps.json
+C:\Users\ERKAN\Desktop\devnotCore\deneme\bin\Debug\netcoreapp2.0\devnotCore.runtimeconfig.json
+C:\Users\ERKAN\Desktop\devnotCore\deneme\bin\Debug\netcoreapp2.0\devnotCore.runtimeconfig.dev.json
+C:\Users\ERKAN\Desktop\devnotCore\deneme\bin\Debug\netcoreapp2.0\devnotCore.dll
+C:\Users\ERKAN\Desktop\devnotCore\deneme\bin\Debug\netcoreapp2.0\devnotCore.pdb
+C:\Users\ERKAN\Desktop\devnotCore\deneme\obj\Debug\netcoreapp2.0\devnotCore.csprojResolveAssemblyReference.cache
+C:\Users\ERKAN\Desktop\devnotCore\deneme\obj\Debug\netcoreapp2.0\devnotCore.csproj.CoreCompileInputs.cache
+C:\Users\ERKAN\Desktop\devnotCore\deneme\obj\Debug\netcoreapp2.0\devnotCore.AssemblyInfoInputs.cache
+C:\Users\ERKAN\Desktop\devnotCore\deneme\obj\Debug\netcoreapp2.0\devnotCore.AssemblyInfo.cs
+C:\Users\ERKAN\Desktop\devnotCore\deneme\obj\Debug\netcoreapp2.0\devnotCore.dll
+C:\Users\ERKAN\Desktop\devnotCore\deneme\obj\Debug\netcoreapp2.0\devnotCore.pdb
