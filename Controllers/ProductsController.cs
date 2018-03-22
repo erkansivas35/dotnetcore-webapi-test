@@ -7,7 +7,7 @@ using devnotCore.Models;
  
 namespace devnotCore.Controllers
 {
-    [Route("product/api/[controller]")]
+    [Route("urunler/api/[controller]")]
     public class ProductsController : Controller
     {
         private readonly FabrikaContext _context;
